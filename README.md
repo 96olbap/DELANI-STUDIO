@@ -6,6 +6,7 @@ This is a simple webpage with information about the Delani studio and it compris
 ## Setup/Installation Requirements
 * No server or dependencies needed to run the code.
 ## Live link
+https://96olbap.github.io/DELANI-STUDIO/
 ## Known Bugs
 No known bugs spotted so far.
 ## Technologies Used
