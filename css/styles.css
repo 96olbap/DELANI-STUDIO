@@ -63,3 +63,6 @@
   border-width: thick;
   border-color: white;
 }
+::placeholder {
+  color: whitesmoket;
+}
