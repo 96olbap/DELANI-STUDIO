@@ -72,4 +72,44 @@
 }
 ::placeholder {
   color: whitesmoke;
+}.design-hidden {
+  display: none;
+  cursor: pointer;
+}
+.p-design {
+  cursor: pointer;
+}
+.develop-hidden {
+  display: none;
+  cursor: pointer;
+}
+.pdevelop {
+  cursor: pointer;
+}
+.product-hidden {
+  display: none;
+  cursor: pointer;
+}
+.product {
+  cursor: pointer;
+}
+.work {
+  cursor: pointer;
+}
+.portfolio-1 {
+  position: relative;
+}
+
+.portfolio-1 .inner-text {
+  position: absolute;
+  text-align: center;
+  color: black;
+  visibility: hidden;
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  opacity: 80%;
+}
+.portfolio-2{
+    position: relative;
 }
