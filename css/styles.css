@@ -65,4 +65,11 @@
 }
 ::placeholder {
   color: whitesmoket;
+}.what-we-do {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+::placeholder {
+  color: whitesmoke;
 }
