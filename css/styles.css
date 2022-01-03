@@ -48,3 +48,18 @@
 .div7 {
   margin: 5%;
 }
+.textarea {
+  background-color: transparent;
+  border-width: thick;
+  border-color: white;
+}
+.name {
+  border-width: thick;
+  background-color: transparent;
+  border-color: white;
+}
+.email {
+  background-color: transparent;
+  border-width: thick;
+  border-color: white;
+}
