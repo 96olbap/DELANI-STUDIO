@@ -5,6 +5,7 @@
 This is a simple webpage with information about the Delani studio and it comprises of :HTML, CSS and JAVASCRIPT
 ## Setup/Installation Requirements
 * No server or dependencies needed to run the code.
+* clone this repo https://github.com/96olbap/DELANI-STUDIO.git
 ## Live link
 https://96olbap.github.io/DELANI-STUDIO/
 ## Known Bugs
